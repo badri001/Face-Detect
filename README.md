@@ -4,5 +4,5 @@
  
 Run the program like this:
 
-python webcam.py
+python cam.py
 
