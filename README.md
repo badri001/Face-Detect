@@ -1,6 +1,6 @@
 # Face-Detect
- Program to detect face using python with opencv
- 
+  Detecting face using python with opencv
+
  
 Run the program like this:
 
